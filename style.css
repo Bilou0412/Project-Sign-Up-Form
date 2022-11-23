@@ -242,7 +242,7 @@ body .form form h3{
 }
 .body .form form fieldset button{
     position: absolute;
-    bottom: -100px;
+    bottom: -150px;
     background-color: #0c0c3b;
     color: rgb(255, 255, 255);
     width: 200px;
